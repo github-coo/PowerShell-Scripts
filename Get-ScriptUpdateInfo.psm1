@@ -56,7 +56,7 @@
 		)
 
 		# Parameters for function Get-ScriptUpdateInfo 
-		[String] $ScriptVersionsURL = 'https://raw.githubusercontent.com/github-coo/PowerShell/master/PowerShell-Scripts-Versions/PowerShell-Script-Versions.xml'
+		[String] $ScriptVersionsURL = 'https://raw.githubusercontent.com/github-coo/PowerShell-Scripts-Versions/master/PowerShell-Script-Versions.xml'
 		# End Parameters for function Get-ScriptUpdateInfo
         try
 		{
